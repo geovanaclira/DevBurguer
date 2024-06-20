@@ -10,6 +10,8 @@
 
 # 📢 Observações
 - O **Finalizar Pedido** só irá pegar se caso você fizer este mesmo código, colocar o número da sua lanchonete, pois enviará para uma API gratuita do WhastApp.
+- Aparecerá uma notificação caso tente finzalizar a compra quando a lanchonete estiver fechada.
+- Ao finalizar a compra sem colocar o endereço irá mostrar um erro, mandando colocar o endereço completo.
 
 # Link para acessar o site 
 - https://dev-burguer-one.vercel.app/
